@@ -127,7 +127,7 @@ span{
   grid-area: 2/1/3/2;
   margin-top:20px;
   margin-left: 50px;
-  background-image: url(/images/kamillentee-selber-machen-172937018-istock.jpg);
+  background-image: url(https://www.mein-schoener-garten.de/sites/default/files/styles/inline_scaled_s/public/kamillentee-selber-machen-172937018-istock.jpg?itok=VXuJ7_iN);
   background-repeat: no-repeat;
   background-size:cover;
   
@@ -160,7 +160,7 @@ margin-top: 50px;
 .thymain-img{
   display: grid;
   grid-area:3/2/4/3 ;
-  background-image: url(/images/Quendel-Wilder-Thymian-\(Thymus-pulegioides\)-Bio_1.jpg);
+  background-image: url(https://www.gartenrot.com/out/pictures/master/product/1/thymian-franzoesisch.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -168,7 +168,7 @@ margin-top: 50px;
   display: grid;
   grid-area: 1/3/2/4;
   
-  background-image: url(/images/gemuese-balkon-pflanzen-1.jpg);
+  background-image: url(https://i0.web.de/image/566/35834566,pd=2,f=sdata169/gemuese-balkon-anpflanzen-pflanzen-garten-gemueseb.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 
